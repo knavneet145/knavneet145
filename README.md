@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Navneet /kumar
+- 👋 Hi, I’m Navneet kumar
 - 👀 I’m interested in solving real world problems and developing softwares which can facilitate larger community.
 - 🌱 I’m currently learning ...
 - 📫 Reach me through 
